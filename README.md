@@ -1,0 +1,1 @@
+# NTHU_DS_Homework1_FrequentPatterns
